@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate Python developer with a love for 
 ## 🚀 Projects
 Here are a few projects I’m particularly proud of:
 
-- **[My_Portfolio](https://code-verse-vrushabh.github.io/Portfolio/)**: ## 🌟 Portfolio Project: [My_Portfolio]
+- **[My_Portfolio](https://code-verse-vrushabh.github.io/Portfolio/)**:  🌟 Portfolio Project: [My_Portfolio]
 
 In this project, I created a [Personal Portfolio website"] using [Flask and Bootstrap]. The website showcases my skills, projects, and experiences, allowing visitors to easily navigate through my work.
 
